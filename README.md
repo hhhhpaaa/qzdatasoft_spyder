@@ -13,11 +13,11 @@
 
 原验证码图片：
 
-![](.\Captcha_torch\img_label\1b2v.jpg)     ![1bc3](.\Captcha_torch\img_label\1bc3.jpg)     ![1bnb](.\Captcha_torch\img_label\1bnb.jpg)     ![1bx2](.\Captcha_torch\img_label\1bx2.jpg)
+![](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/img_label/1b2v.jpg)     ![1bc3](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/img_label/1bc3.jpg)     ![1bnb](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/img_label/1bnb.jpg)     ![1bx2](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/img_label/1bx2.jpg)
 
 处理后的验证码图片：
 
-![](.\Captcha_torch\img_pro\1b2v.jpg)     ![1bc3](.\Captcha_torch\img_pro\1bc3.jpg)     ![1bnb](.\Captcha_torch\img_pro\1bnb.jpg)     ![1bx2](.\Captcha_torch\img_pro\1bx2.jpg)
+![](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/img_pro/1b2v.jpg)     ![1bc3](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/img_pro/1bc3.jpg)     ![1bnb](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/img_pro/1bnb.jpg)     ![1bx2](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/img_pro/1bx2.jpg)
 
 2.  #### 模型
 
