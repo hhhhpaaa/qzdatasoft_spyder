@@ -1,2 +1,1 @@
-# qzdatasoft_spyder
-一个获取强智教务系统数据的demo
+### 该文件夹中存放的文件用于创建docker镜像
