@@ -25,9 +25,9 @@
 
 损失函数采用nn.CrossEntropyLoss()，图片维度为(22, 62,1)，模型输入维度为(batch_size, 1, 22, 62)，输出维度为(batch_size,4,10)。训练4个分类器，每个分类器负责区分10种字母。
 
-![acc](.\Captcha_torch\acc.png)
+![acc](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/acc.png)
 
-![loss](.\Captcha_torch\loss.png)
+![loss](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/Captcha_torch/loss.png)
 
 3.   #### 预测
 
@@ -63,5 +63,5 @@ print(response.text)
 
 
 
-![](.\yln.jpg)
+![](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/yln.jpg)
 
