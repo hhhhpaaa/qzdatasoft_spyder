@@ -59,5 +59,3 @@ print(response.text)
 
 使用docker将服务部署在云端linux服务器。docker镜像由Classroom_schedule文件夹中的Dockerfile文件构建，所需基础镜像为[python 3.8.12](https://hub.docker.com/_/python)，其余依赖文件均在Classroom_schedule文件夹中。本人使用python 3.8.12构建的镜像较大，另外可以基于[chromedriver](https://hub.docker.com/r/spryker/chromedriver)镜像构建。
 
-![](https://github.com/hhhhpaaa/qzdatasoft_spyder/blob/master/yln.jpg)
-
